@@ -1,9 +1,9 @@
 # OBJETIVO
 Criação de um sistema para que o usuario possa acessar para manipular suas musicas favoritas.
 
-# FUNCIONALIDADES
+## FUNCIONALIDADES
 A página permite o login no sistema, com o usuário logado, na página do usuário, pode adicionar, remover, buscar, editar e listas suas músicas preferidas.
-# LAYOUT DO PROJETO 
+## LAYOUT DO PROJETO 
 
 ```plaintext
 /home/user/Projects/flask-tutorial
@@ -36,10 +36,11 @@ A página permite o login no sistema, com o usuário logado, na página do usuá
 └── MANIFEST.in
 ```
 
-# FERRAMENTAS
-- Framework:
-- Linguagem:
-- Banco de dados:
+## FERRAMENTAS
+- Framework: Flask
+- Linguagem: Python
+- Banco de dados: Mysql
+
 
 
 
