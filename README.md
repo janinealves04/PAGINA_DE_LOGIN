@@ -5,6 +5,7 @@ Criação de um sistema para que o usuario possa acessar para manipular suas mus
 A página permite o login no sistema, com o usuário logado, na página do usuário, pode adicionar, remover, buscar, editar e listas suas músicas preferidas.
 # LAYOUT DO PROJETO 
 
+```plaintext
 /home/user/Projects/flask-tutorial
 ├── flaskr/
 │   ├── __init__.py
@@ -33,6 +34,7 @@ A página permite o login no sistema, com o usuário logado, na página do usuá
 ├── .venv/
 ├── pyproject.toml
 └── MANIFEST.in
+```
 
 # FERRAMENTAS
 - Framework:
